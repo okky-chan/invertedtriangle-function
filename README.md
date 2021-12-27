@@ -1,0 +1,1 @@
+# invertedtriangle-function
